@@ -18,8 +18,10 @@ Here are some ideas to get you started:
 
 Algunas cosas sobre mi aquí :
 
+
+- 🔭 Me encuantro trabajando como proveedor de servicio a mis clientes en [@appcomercial](https://github.com/appcomercial)
+- 🔭 Trabajop comop turor para crear aplicaciones web en etorno LampStack en [@tutorwebenlinea](https://github.com/tutorwebenlinea). 
 - 🔭 Actualmente estoy trabajando en varios proyectos y uso la cuenta de [@codefuncode](https://github.com/codefuncode) para publicarlos. 
-- 👯 Me encuantro trabajando como proveedor de servicio a mis clientes en [@appcomercial](https://github.com/appcomercial)
 - 🌱 Actualmente estoy trabajando con APACHE, MYSQL. PHP, JavaScript, CSS3 & HTML5
 - 👯 Estoy buscando colaborar en proyectos enfocados a soluciones comerciales. Ya sean estadísticos, arbitrarios, de retención, contabilidad, recursos humanos , inventarios, nominas, facturación y todo lo relacionado a administración  de una empresas u organizaciones.  
 - 🤔 Estoy buscando ayuda para financiar productos de aplicaciones web para facilitar los prendimientos dentro de empresas. 
