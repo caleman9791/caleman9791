@@ -26,7 +26,7 @@ Algunas cosas sobre mi aquí :
 - 👯 Estoy buscando colaborar en proyectos enfocados a soluciones comerciales. Ya sean estadísticos, arbitrarios, de retención, contabilidad, recursos humanos , inventarios, nominas, facturación y todo lo relacionado a administración  de una empresas u organizaciones.  
 - 🤔 Estoy buscando ayuda para financiar productos de aplicaciones web para facilitar los procedimientos dentro de la empresas. 
 - 💬 Pregúntame sobre estudio de mercado contabilidad , economía, recursos humos control de inventario, control de usuario, interfaz gratifica, análisis de requerimientos para la organización y relacionados con la administración  de mampresas y como llevar la lógica de negocios a una base de datos para satisfacer todas las necesidades en cuanto la poseso de datos dentro de la misma.  
-- 📫 Cómo contactarme: puedes contactarme a través de mi coreo electrónico calemen9791@gmail.com
+- 📫 Cómo contactarme: puedes contactarme a través de mi coreo electrónico calemen9791@protonmail.com
 
 
 <!-- - 😄 Pronombres: ...
