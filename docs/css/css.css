@@ -195,7 +195,7 @@ h3 {
 }
 
 .c-subscribe-box__wrapper {
-	width: 98%;
+	width: 97%;
 	height: calc(100% - var(--border-width));
 	position: absolute;
 	top: 50%;
