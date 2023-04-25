@@ -1,0 +1,3 @@
+notas.txt
+
+git remote add github git@github.com:caleman9791/inventio-lite.git
