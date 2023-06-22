@@ -1,6 +1,0 @@
-
-////////////////////////////
-sudo /opt/lampp/lampp start
-////////////////////////////
-
-/templatemo_563_seo_dream/index.html
